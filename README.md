@@ -84,11 +84,4 @@ jdd-etl-qa-produce/                # 工程根目录
 
 ​	**FindShell**: 界面比虚拟机更加友好，方便系统之间互传文件，相比Xshell，最大优势是免费
 
-​	**Typora**：编写md文档的好工具
-
-
-
-​	
-
-​        
 
